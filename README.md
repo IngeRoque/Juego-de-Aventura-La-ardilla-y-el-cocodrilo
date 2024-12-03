@@ -22,8 +22,8 @@ La ardilla puede moverse en cualquier dirección utilizando las teclas de flecha
 
 ### Instalación
 
-1. Instala Python 3.x en tu sistema operativo.
-2. Instala Pygame 2.x utilizando pip: pip install pygame
+1. Instala Python 3.13.0 en tu sistema operativo.
+2. Instala Pygame 2.6.1 utilizando pip: pip install pygame
 3. Descarga el código fuente del juego y colócalo en una carpeta.
 4. Ejecuta el juego utilizando Python: python main.py
 
